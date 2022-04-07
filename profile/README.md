@@ -6,4 +6,4 @@ Most project will have some more specific development notes, more often than not
 
 **Useful pages**
 
--[Guidelines on issue tracker submissions](https://github.com/kgpf-dev/.github/wiki/Issue-Submissions)
+- [Guidelines on issue tracker submissions](https://github.com/kgpf-dev/.github/wiki/Issue-Submissions)
